@@ -31,7 +31,7 @@ board = ...
 ```
 
 ## Configuration
-```
+```ini
 [env]
 platform = https://github.com/maxgerhardt/platform-nordicnrf52
 framework = arduino
