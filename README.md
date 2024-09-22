@@ -30,7 +30,7 @@ board = ...
 ...
 ```
 
-# Configuration
+## Configuration
 ```
 [env]
 platform = https://github.com/maxgerhardt/platform-nordicnrf52
