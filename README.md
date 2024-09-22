@@ -31,5 +31,22 @@ board = ...
 ```
 
 # Configuration
+```
+[env]
+platform = https://github.com/maxgerhardt/platform-nordicnrf52
+framework = arduino
+
+[env:xiaoblesense_arduinocore_mbed]
+board = xiaoblesense
+
+[env:xiaoblesense_adafruit_nrf52]
+board = xiaoblesense_adafruit
+
+[env:xiaoble_arduinocore_mbed]
+board = xiaoble
+
+[env:xiaoble_adafruit_nrf52]
+board = xiaoble_adafruit
+```
 
 Please navigate to [documentation](https://docs.platformio.org/page/platforms/nordicnrf52.html).
